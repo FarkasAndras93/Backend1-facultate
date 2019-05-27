@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /app
+    
+spring:
+  security:
+    user:
+      name: admin
+      password: admin

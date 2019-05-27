@@ -3,7 +3,7 @@ package main.java.app.service.impl;
 import java.util.List;
 
 import main.java.app.config.HibernateConfig;
-import main.model.User;
+import main.java.app.model.User;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Session;

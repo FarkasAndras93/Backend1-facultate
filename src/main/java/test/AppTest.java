@@ -3,8 +3,8 @@ package main.java.test;
 import java.util.List;
 
 import main.java.app.config.HibernateConfig;
+import main.java.app.model.User;
 import main.java.app.service.impl.UserService;
-import main.model.User;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Query;

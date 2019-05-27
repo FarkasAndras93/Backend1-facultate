@@ -2,8 +2,8 @@ package main.java.app.controller;
 
 import java.util.List;
 
+import main.java.app.model.User;
 import main.java.app.service.impl.UserService;
-import main.model.User;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
